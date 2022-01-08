@@ -1,0 +1,6 @@
+Samsung,S21,512,true
+iPhone,12,128,true
+iPhone,12 Pro,512,false
+Samsung,A51,128,false
+Huawei,Honor 50,64,true
+iPhone,13,256

@@ -1,0 +1,4 @@
+﻿  ListaTipTelefoane.cpp
+C:\Users\Cosmin\C++Meditatii\OOP\StructuriDeDate\ExempleStructuriDeDate\ListaTipTelefoane\ControlTelefon.h(50,15): warning C4101: 'n': unreferenced local variable
+C:\Users\Cosmin\C++Meditatii\OOP\StructuriDeDate\ExempleStructuriDeDate\ListaTipTelefoane\ControlTelefon.h(66,14): warning C4101: 'n': unreferenced local variable
+  ListaTipTelefoane.vcxproj -> C:\Users\Cosmin\C++Meditatii\OOP\StructuriDeDate\ExempleStructuriDeDate\ListaTipTelefoane\Debug\ListaTipTelefoane.exe
